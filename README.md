@@ -1,6 +1,14 @@
 # article-ios
 
-## Swift
+* <a href="#1">Swift 进阶</a>
+* <a href="#2">Swift 基础</a>
+* <a href="#3">SwiftUI 进阶</a>
+* <a href="#4">SwiftUI 基础</a>
+* <a href="#5">Tips</a>
+* <a href="#6">iOS</a>
+* <a href="#7">面试</a>
+
+## <a name="1">Swift 进阶</a>
 
 [使用 Swift Package 插件生成代码](https://github.com/SwiftCommunityRes/article-ios/blob/main/使用%20Swift%20Package%20插件生成代码.md)
 
@@ -76,7 +84,7 @@
 
 [swift中defer小结](https://mp.weixin.qq.com/s/eM3KoOkMuBhkrQiKbZ9A2Q)
 
-## Swift 基础
+## <a name="2">Swift 基础</a>
 
 [成为更好的 Swift 开发者的 10 个 Tips](https://mp.weixin.qq.com/s/9p7s15ndgnLDqjrSX0PW_A)
 
@@ -112,7 +120,7 @@
 
 [Swift 基础之控制流](https://mp.weixin.qq.com/s/SrgLkl9sSZVDcpbvjSpdHA)
 
-## SwiftUI
+## <a name="3">SwiftUI 进阶</a>
 
 [SwiftUI 状态管理系统指南](https://mp.weixin.qq.com/s/gJCis1z2zY0dZTLfu7T9CQ)
 
@@ -146,7 +154,7 @@
 
 [如何结合 Core Data 和 SwiftUI](https://mp.weixin.qq.com/s/ZQSbu7dzwC-XbGcUcBkjAw)
 
-## SwiftUI 基础
+## <a name="4">SwiftUI 基础</a>
 
 [SwiftUI 中布局的工作原理](https://mp.weixin.qq.com/s/e8MwXvuUZ5d0xfYvldyk9A)
 
@@ -162,7 +170,7 @@
 
 [SwiftUI 教程 1.1 文本](https://mp.weixin.qq.com/s/iT9FUx1LYnpUQJkW798q7w)
 
-## Tips
+## <a name="5">Tips</a>
 
 [解决使用 AVAudioRecorder 录音保存 .WAV 文件遇到的问题](https://mp.weixin.qq.com/s/MZqpzCAkWE9gGpsAYyo_aw)
 
@@ -182,7 +190,7 @@
 
 [Swift 项目 - Xib | StoryBoard 多人协作技巧](https://mp.weixin.qq.com/s/bnm_rKeVRlwVOMKjGFW0tw)
 
-## iOS
+## <a name="6">iOS</a>
 
 [iOS 利用 Metal 实现滤镜与动效滤镜](https://mp.weixin.qq.com/s/GUJFb5fATuq43B11m62c2A)
 
@@ -200,9 +208,9 @@
 
 [iOS身份证识别（免费试用，内附 demo）](https://mp.weixin.qq.com/s/T9oObOFXJUpzFLaLSrnXhQ)
 
-## 面试
+## <a name="7">面试</a>
 
-[面试资源汇总，必看](https://mp.weixin.qq.com/s/chvu_DSpSO5ExI6e--NVQg)
+[面试资源汇总，必看](https://github.com/fanbaoying/FBYInterview-iOS)
 
 [京东七鲜一面总结](https://mp.weixin.qq.com/s/jAi3rpJ11F7GGXMTx2AFXA)
 
@@ -212,3 +220,18 @@
 
 [【面试必备】Swift 面试题及其答案](https://mp.weixin.qq.com/s/gXWebSthzi7fzyOVzrArYg)
 
+以上文章均在 Swift社区 公众号发布，**申请转载权限**，请添加微信 fzhanfei，备注「转载」。
+
+## 关于我们
+
+**Swift社区**是由 Swift 爱好者共同维护的组织，欢迎关注公众号:**Swift社区**，后台点击进群，可以进入我们社区的各种交流讨论群。希望我们Swift社区是大家在网络空间中的另一份共同的归属。
+
+特别感谢 Swift社区 翻译组的每一位编辑，感谢大家的辛苦付出，为 Swift社区 提供优质内容，为 Swift 语言的发展贡献自己的力量。
+
+## star & 赞助
+
+如果这个库有帮助到您，请 Star 一下。
+
+**感谢您的赞助：**我们会将您的赞助用于 Swift社区 的建设与维护。
+
+![](Assets/swift-alipay.png)![](Assets/swift-wechat.png)
