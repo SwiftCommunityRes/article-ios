@@ -232,6 +232,6 @@
 
 如果这个库有帮助到您，请 Star 一下。
 
-**感谢您的赞助：**我们会将您的赞助用于 Swift社区 的建设与维护。
+**感谢您的赞助：** 我们会将您的赞助用于 Swift社区 的建设与维护。
 
 ![](Assets/swift-alipay.png)![](Assets/swift-wechat.png)
