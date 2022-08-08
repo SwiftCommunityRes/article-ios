@@ -1,3 +1,5 @@
+[![RSS_icon](https://img.shields.io/badge/RSS-Atom-orange)](https://github.com/SwiftCommunityRes/article-ios/releases.atom)
+
 # article-ios
 
 * <a href="#1">Swift 进阶</a>
@@ -7,6 +9,12 @@
 * <a href="#5">Tips</a>
 * <a href="#6">iOS</a>
 * <a href="#7">面试</a>
+
+## 最新
+
+[解决 Flutter 引起的 iOS 内存崩溃问题](https://mp.weixin.qq.com/s/exaRmdUnpzSvlJ2BGSODgw)
+
+[swift-5.5.1-RELEASE源码编译（Xcode）](https://mp.weixin.qq.com/s/3emjAHwr7GDExBiB2cAqWQ)
 
 ## <a name="1">Swift 进阶</a>
 
@@ -234,4 +242,4 @@
 
 **感谢您的赞助：** 我们会将您的赞助用于 Swift社区 的建设与维护。
 
-![](Assets/swift-alipay.png)![](Assets/swift-wechat.png)
+![](https://github.com/SwiftCommunityRes/article-ios/blob/main/Assets/swift-alipay.png?raw=true) ![](Assets/swift-wechat.png)
