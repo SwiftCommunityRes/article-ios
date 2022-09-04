@@ -12,6 +12,8 @@
 
 ## 最新
 
+[Swift 周报 第十二期](https://mp.weixin.qq.com/s/IXP8PNT4aoCnyB-V2qMY_Q)
+
 [使用 SwiftUI 的 Eager Grids](https://mp.weixin.qq.com/s/Ew8SBz-81NQ-dJFONmadVA)
 
 [解决 Flutter 引起的 iOS 内存崩溃问题](https://mp.weixin.qq.com/s/exaRmdUnpzSvlJ2BGSODgw)
