@@ -9,14 +9,15 @@
 * <a href="#5">Tips</a>
 * <a href="#6">iOS</a>
 * <a href="#7">面试</a>
+* <a href="https://github.com/SwiftCommunityRes/SwiftWeekly">Swift 周报</a>
 
 ## 最新
 
+[Swift 周报 第十三期](https://mp.weixin.qq.com/s/aoEL9z6U9jq7X_rqecKcuw)
+
+[项目中第三方库并不是必须的](https://mp.weixin.qq.com/s/p_MoRthVdlfhqSyxCkDkow)
+
 [Swift 周报 第十二期](https://mp.weixin.qq.com/s/IXP8PNT4aoCnyB-V2qMY_Q)
-
-[使用 SwiftUI 的 Eager Grids](https://mp.weixin.qq.com/s/Ew8SBz-81NQ-dJFONmadVA)
-
-[解决 Flutter 引起的 iOS 内存崩溃问题](https://mp.weixin.qq.com/s/exaRmdUnpzSvlJ2BGSODgw)
 
 ## <a name="1">Swift 进阶</a>
 
@@ -134,6 +135,8 @@
 
 ## <a name="3">SwiftUI 进阶</a>
 
+[使用 SwiftUI 的 Eager Grids](https://mp.weixin.qq.com/s/Ew8SBz-81NQ-dJFONmadVA)
+
 [SwiftUI 状态管理系统指南](https://mp.weixin.qq.com/s/gJCis1z2zY0dZTLfu7T9CQ)
 
 [SwiftUI 中的自定义导航](https://mp.weixin.qq.com/s/J7Spl7O7_F465JrVlsVE9Q)
@@ -183,6 +186,8 @@
 [SwiftUI 教程 1.1 文本](https://mp.weixin.qq.com/s/iT9FUx1LYnpUQJkW798q7w)
 
 ## <a name="5">Tips</a>
+
+[解决 Flutter 引起的 iOS 内存崩溃问题](https://mp.weixin.qq.com/s/exaRmdUnpzSvlJ2BGSODgw)
 
 [解决使用 AVAudioRecorder 录音保存 .WAV 文件遇到的问题](https://mp.weixin.qq.com/s/MZqpzCAkWE9gGpsAYyo_aw)
 
