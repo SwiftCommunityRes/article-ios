@@ -13,11 +13,13 @@
 
 ## 最新
 
-[Swift 周报 第十三期](https://mp.weixin.qq.com/s/aoEL9z6U9jq7X_rqecKcuw)
+[Swift 周报 第十四期](https://mp.weixin.qq.com/s/ZSOX_pW2Krwea0tgl0ufHQ)
 
-[项目中第三方库并不是必须的](https://mp.weixin.qq.com/s/p_MoRthVdlfhqSyxCkDkow)
+[实现模块化应用的本地化](https://mp.weixin.qq.com/s/8fPJbPNA7kIZhnv3I8m4tg)
 
-[Swift 周报 第十二期](https://mp.weixin.qq.com/s/IXP8PNT4aoCnyB-V2qMY_Q)
+[SwiftUI 之 HStack 和 VStack 的切换](https://mp.weixin.qq.com/s/C739cypR-npGt7F8NLtQgQ)
+
+[App Store 已上架项目打开瞬闪问题](https://mp.weixin.qq.com/s/QOB5alijsV5Gg8pi4lg03g)
 
 ## <a name="1">Swift 进阶</a>
 
@@ -208,6 +210,8 @@
 [Swift 项目 - Xib | StoryBoard 多人协作技巧](https://mp.weixin.qq.com/s/bnm_rKeVRlwVOMKjGFW0tw)
 
 ## <a name="6">iOS</a>
+
+[项目中第三方库并不是必须的](https://mp.weixin.qq.com/s/p_MoRthVdlfhqSyxCkDkow)
 
 [iOS 利用 Metal 实现滤镜与动效滤镜](https://mp.weixin.qq.com/s/GUJFb5fATuq43B11m62c2A)
 
