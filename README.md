@@ -13,13 +13,13 @@
 
 ## 最新
 
+[Sendable 和 @Sendable 闭包 —— 代码实例详解](https://mp.weixin.qq.com/s/IA9CgMjZf63_RFwNBB9QqQ)
+
 [Swift 周报 第十四期](https://mp.weixin.qq.com/s/ZSOX_pW2Krwea0tgl0ufHQ)
 
 [实现模块化应用的本地化](https://mp.weixin.qq.com/s/8fPJbPNA7kIZhnv3I8m4tg)
 
 [SwiftUI 之 HStack 和 VStack 的切换](https://mp.weixin.qq.com/s/C739cypR-npGt7F8NLtQgQ)
-
-[App Store 已上架项目打开瞬闪问题](https://mp.weixin.qq.com/s/QOB5alijsV5Gg8pi4lg03g)
 
 ## <a name="1">Swift 进阶</a>
 
@@ -188,6 +188,8 @@
 [SwiftUI 教程 1.1 文本](https://mp.weixin.qq.com/s/iT9FUx1LYnpUQJkW798q7w)
 
 ## <a name="5">Tips</a>
+
+[App Store 已上架项目打开瞬闪问题](https://mp.weixin.qq.com/s/QOB5alijsV5Gg8pi4lg03g)
 
 [解决 Flutter 引起的 iOS 内存崩溃问题](https://mp.weixin.qq.com/s/exaRmdUnpzSvlJ2BGSODgw)
 

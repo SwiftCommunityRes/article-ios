@@ -1,12 +1,7 @@
 # SwiftUI 锁屏小组件
 
-> [原文链接](https://swiftwithmajid.com/2022/08/30/lock-screen-widgets-in-swiftui/)
-> 
 
 iOS呼声最高的功能之一是可定制的锁屏。终于，在最新发布的iOS 16得以实现。我们可以用可浏览的小组件填充锁屏。实现锁屏小组件很简单，因为它的API与主屏小组件共享相同的代码。本周我们将学习如何为我们的pp实现锁屏小组件。
-
-> 查看我专门发布的[“构建SwiftUI小组件”](https://swiftwithmajid.com/2020/09/09/building-widgets-in-swiftui/)，了解有关主屏小组件的更多信息。
-> 
 
 让我们从你可能早就有的App主屏小组件代码开始。
 
@@ -172,3 +167,5 @@ struct MyAppWidget: Widget {
     }
 }
 ```
+
+> 来源：[Lock screen widgets in SwiftUI](https://swiftwithmajid.com/2022/08/30/lock-screen-widgets-in-swiftui/)
