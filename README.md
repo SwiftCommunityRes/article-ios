@@ -13,6 +13,8 @@
 
 ## 最新
 
+[7 个大型 iOS 项目的 Xcode 快捷方式](https://github.com/SwiftCommunityRes/article-ios/blob/main/resource/7个大型iOS项目的Xcode快捷方式.pdf)
+
 [App UI 设计灵感](https://github.com/fanbaoying/AppUIDesign/blob/main/README.md)
 
 [Swift 周报 第十五期](https://mp.weixin.qq.com/s/x-ufc5MauRGfoY571WePFA)
