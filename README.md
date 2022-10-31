@@ -13,17 +13,17 @@
 
 ## 最新
 
+[Swift 周报 第十六期](https://mp.weixin.qq.com/s/_igJkQdGWEGSfbDmVL9bbg)
+
 [7 个大型 iOS 项目的 Xcode 快捷方式](https://github.com/SwiftCommunityRes/article-ios/blob/main/resource/7个大型iOS项目的Xcode快捷方式.pdf)
 
 [App UI 设计灵感](https://github.com/fanbaoying/AppUIDesign/blob/main/README.md)
 
 [Swift 周报 第十五期](https://mp.weixin.qq.com/s/x-ufc5MauRGfoY571WePFA)
 
-[Sendable 和 @Sendable 闭包 —— 代码实例详解](https://mp.weixin.qq.com/s/IA9CgMjZf63_RFwNBB9QqQ)
-
-[Swift 周报 第十四期](https://mp.weixin.qq.com/s/ZSOX_pW2Krwea0tgl0ufHQ)
-
 ## <a name="1">Swift 进阶</a>
+
+[Sendable 和 @Sendable 闭包 —— 代码实例详解](https://mp.weixin.qq.com/s/IA9CgMjZf63_RFwNBB9QqQ)
 
 [swift-5.5.1-RELEASE源码编译（Xcode）](https://mp.weixin.qq.com/s/3emjAHwr7GDExBiB2cAqWQ)
 
