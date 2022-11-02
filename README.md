@@ -9,6 +9,7 @@
 * <a href="#5">Tips</a>
 * <a href="#6">iOS</a>
 * <a href="#7">面试</a>
+* <a href="#8">Flutter 实战</a>
 * <a href="https://github.com/SwiftCommunityRes/SwiftWeekly">Swift 周报</a>
 
 ## 最新
@@ -22,6 +23,9 @@
 [Swift 周报 第十五期](https://mp.weixin.qq.com/s/x-ufc5MauRGfoY571WePFA)
 
 ## <a name="1">Swift 进阶</a>
+
+<details>
+<summary>点击查看内容</summary>
 
 [Sendable 和 @Sendable 闭包 —— 代码实例详解](https://mp.weixin.qq.com/s/IA9CgMjZf63_RFwNBB9QqQ)
 
@@ -101,7 +105,12 @@
 
 [swift中defer小结](https://mp.weixin.qq.com/s/eM3KoOkMuBhkrQiKbZ9A2Q)
 
+</details>
+
 ## <a name="2">Swift 基础</a>
+
+<details>
+<summary>点击查看内容</summary>
 
 [成为更好的 Swift 开发者的 10 个 Tips](https://mp.weixin.qq.com/s/9p7s15ndgnLDqjrSX0PW_A)
 
@@ -137,7 +146,12 @@
 
 [Swift 基础之控制流](https://mp.weixin.qq.com/s/SrgLkl9sSZVDcpbvjSpdHA)
 
+</details>
+
 ## <a name="3">SwiftUI 进阶</a>
+
+<details>
+<summary>点击查看内容</summary>
 
 [SwiftUI 之 HStack 和 VStack 的切换](https://mp.weixin.qq.com/s/C739cypR-npGt7F8NLtQgQ)
 
@@ -175,7 +189,12 @@
 
 [如何结合 Core Data 和 SwiftUI](https://mp.weixin.qq.com/s/ZQSbu7dzwC-XbGcUcBkjAw)
 
+</details>
+
 ## <a name="4">SwiftUI 基础</a>
+
+<details>
+<summary>点击查看内容</summary>
 
 [SwiftUI 中布局的工作原理](https://mp.weixin.qq.com/s/e8MwXvuUZ5d0xfYvldyk9A)
 
@@ -191,7 +210,12 @@
 
 [SwiftUI 教程 1.1 文本](https://mp.weixin.qq.com/s/iT9FUx1LYnpUQJkW798q7w)
 
+</details>
+
 ## <a name="5">Tips</a>
+
+<details>
+<summary>点击查看内容</summary>
 
 [App Store 已上架项目打开瞬闪问题](https://mp.weixin.qq.com/s/QOB5alijsV5Gg8pi4lg03g)
 
@@ -215,7 +239,12 @@
 
 [Swift 项目 - Xib | StoryBoard 多人协作技巧](https://mp.weixin.qq.com/s/bnm_rKeVRlwVOMKjGFW0tw)
 
+</details>
+
 ## <a name="6">iOS</a>
+
+<details>
+<summary>点击查看内容</summary>
 
 [实现模块化应用的本地化](https://mp.weixin.qq.com/s/8fPJbPNA7kIZhnv3I8m4tg)
 
@@ -237,7 +266,12 @@
 
 [iOS身份证识别（免费试用，内附 demo）](https://mp.weixin.qq.com/s/T9oObOFXJUpzFLaLSrnXhQ)
 
+</details>
+
 ## <a name="7">面试</a>
+
+<details>
+<summary>点击查看内容</summary>
 
 [面试资源汇总，必看](https://github.com/fanbaoying/FBYInterview-iOS)
 
@@ -248,6 +282,23 @@
 [46 道 Swift 常见面试题解](https://mp.weixin.qq.com/s/NnZNnG9_KxlGscsDuQSK6A)
 
 [【面试必备】Swift 面试题及其答案](https://mp.weixin.qq.com/s/gXWebSthzi7fzyOVzrArYg)
+
+</details>
+
+## <a name="8">Flutter 实战</a>
+
+<details>
+<summary>点击查看内容</summary>
+
+[Flutter 多引擎渲染，在稿定 App 的实践](https://mp.weixin.qq.com/s/fpbVBg-Usuu7I6lCbPhlsQ)
+
+[Flutter 多引擎渲染，在稿定 App 的实践（二）：原理篇](https://mp.weixin.qq.com/s/NONvVwN85u2yqBde2VW1kQ)
+
+[Flutter 多引擎渲染，在稿定 App 的实践（三）：躺坑篇](https://mp.weixin.qq.com/s/zDgMdKht4SZjL1XRYru2jA)
+
+[解决 Flutter 引起的 iOS 内存崩溃问题](https://mp.weixin.qq.com/s/exaRmdUnpzSvlJ2BGSODgw)
+
+</details>
 
 以上文章均在 Swift社区 公众号发布，**申请转载权限**，请添加微信 fzhanfei，备注「转载」。
 
