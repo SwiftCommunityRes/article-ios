@@ -290,6 +290,12 @@
 <details>
 <summary>点击查看内容</summary>
 
+[Flutter Web - 优雅的兼容 Flutter App 代码](https://mp.weixin.qq.com/s/HnMiH-iCUUQFxxurHBg0cA)
+
+[Flutter Web - 一种取巧的 CDN 方案](https://mp.weixin.qq.com/s/F5h_Xa4QGO4exqccQxgvMQ)
+
+[Flutter Web - 让 Web 与 APP UI 一致的另一种可能](https://mp.weixin.qq.com/s/3WiM17-yZtIi8HvY8J7zCQ)
+
 [Flutter 多引擎渲染，在稿定 App 的实践](https://mp.weixin.qq.com/s/fpbVBg-Usuu7I6lCbPhlsQ)
 
 [Flutter 多引擎渲染，在稿定 App 的实践（二）：原理篇](https://mp.weixin.qq.com/s/NONvVwN85u2yqBde2VW1kQ)
@@ -297,6 +303,7 @@
 [Flutter 多引擎渲染，在稿定 App 的实践（三）：躺坑篇](https://mp.weixin.qq.com/s/zDgMdKht4SZjL1XRYru2jA)
 
 [解决 Flutter 引起的 iOS 内存崩溃问题](https://mp.weixin.qq.com/s/exaRmdUnpzSvlJ2BGSODgw)
+本文问题解决方案为业界首发
 
 </details>
 
