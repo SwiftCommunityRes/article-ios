@@ -289,7 +289,6 @@
 
 <details>
 <summary>点击查看内容</summary>
-
 [Flutter Web - 优雅的兼容 Flutter App 代码](https://mp.weixin.qq.com/s/HnMiH-iCUUQFxxurHBg0cA)
 
 [Flutter Web - 一种取巧的 CDN 方案](https://mp.weixin.qq.com/s/F5h_Xa4QGO4exqccQxgvMQ)
