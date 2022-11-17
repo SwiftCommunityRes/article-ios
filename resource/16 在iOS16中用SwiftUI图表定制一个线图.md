@@ -1,7 +1,14 @@
 ![Customise a line chart with SwiftUI Charts in iOS 16](https://swdevnotes.com/images/swift/2022/0814/customise-a-line-chart-with-swiftui-charts-in-ios-16-feature.png)
 
-在iOS 16中引入的SwiftUI图表，可以以直观的视觉格式呈现数据，并且可以使用SwiftUI图表快速创建。本文演示了几种定制折线图并与区域图结合来展示数据的方法。
+在 iOS 16 中引入的 SwiftUI 图表，可以以直观的视觉格式呈现数据，并且可以使用 SwiftUI 图表快速创建。本文演示了几种定制折线图并与区域图结合来展示数据的方法。
 
+**系列文章**
+
+1.   如何在 SwiftUI 中创建条形图
+2.   SwiftUI 中的水平条形图
+3.   在 iOS 16 中用 SwiftUI Charts 创建一个折线图
+4.   在 iOS16 中用 SwiftUI 图表定制一个线图
+5.   在 Swift 图表中使用 Foudation 库中的测量类型
 
 
 ## 默认折线图
@@ -39,8 +46,6 @@ struct ChartView1: View {
 ![使用SwiftUI图表创建的默认折线图](https://swdevnotes.com/images/swift/2022/0814/default-line-chart.png)
 
 使用SwiftUI图表创建的默认折线图
-
-
 
 ## 改变图表背后的背景
 
@@ -631,4 +636,4 @@ struct ChartView9: View {
 
 SwiftUI Charts目前处于测试阶段，在Xcode性能和编译一些图表选项方面可能会有一些问题，但它很容易就能开始使用图表。帮助文档是可用的，而且很好，但我希望看到更多的代码示例。它是有很大的潜力来定制图表然后以直观的方式向应用程序的用户展示数据。
 
-> 来自：[Customise a line chart with SwiftUI Charts in iOS 16](https://swdevnotes.com/swift/2022/customise-a-line-chart-with-swiftui-charts-in-ios-16/)  
+> 来自：[Customise a line chart with SwiftUI Charts in iOS 16](https://swdevnotes.com/swift/2022/customise-a-line-chart-with-swiftui-charts-in-ios-16/)
