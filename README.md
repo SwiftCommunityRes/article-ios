@@ -14,18 +14,23 @@
 
 ## 最新
 
-[在 Swift 图表中使用 Foudation 库中的测量类型](https://mp.weixin.qq.com/s/k2KtSq1e6E5gMfVSu6Jmhw)
+[Swift 周报 第十七期](https://mp.weixin.qq.com/s/F6spkdjibMZTLmAonqdogg)
+
+[如何在 SwiftUI 中创建条形图](https://mp.weixin.qq.com/s/xPykVjkb9aLtu8rha3tQqA)
+
+[在 iOS 16 中用 SwiftUI Charts 创建一个折线图](https://mp.weixin.qq.com/s/V_qXskB41WYHwaPdV877mg)
+
+[Flutter Web - 优雅的兼容 Flutter App 代码](https://mp.weixin.qq.com/s/HnMiH-iCUUQFxxurHBg0cA)
 
 [Swift 周报 第十六期](https://mp.weixin.qq.com/s/_igJkQdGWEGSfbDmVL9bbg)
 
-[7 个大型 iOS 项目的 Xcode 快捷方式](https://github.com/SwiftCommunityRes/article-ios/blob/main/resource/7个大型iOS项目的Xcode快捷方式.pdf)
-
-[App UI 设计灵感](https://github.com/fanbaoying/AppUIDesign/blob/main/README.md)
 
 ## <a name="1">Swift 进阶</a>
 
 <details>
 <summary>点击查看内容</summary>
+
+[在 Swift 图表中使用 Foudation 库中的测量类型](https://mp.weixin.qq.com/s/k2KtSq1e6E5gMfVSu6Jmhw)
 
 [Sendable 和 @Sendable 闭包 —— 代码实例详解](https://mp.weixin.qq.com/s/IA9CgMjZf63_RFwNBB9QqQ)
 
@@ -216,6 +221,10 @@
 
 <details>
 <summary>点击查看内容</summary>
+
+[App UI 设计灵感](https://github.com/fanbaoying/AppUIDesign/blob/main/README.md)
+
+[7 个大型 iOS 项目的 Xcode 快捷方式](https://github.com/SwiftCommunityRes/article-ios/blob/main/resource/7个大型iOS项目的Xcode快捷方式.pdf)
 
 [App Store 已上架项目打开瞬闪问题](https://mp.weixin.qq.com/s/QOB5alijsV5Gg8pi4lg03g)
 
