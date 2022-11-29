@@ -14,15 +14,11 @@
 
 ## 最新
 
-[Swift 周报 第十七期](https://mp.weixin.qq.com/s/F6spkdjibMZTLmAonqdogg)
+[Swift 周报 第十八期](https://mp.weixin.qq.com/s/2iML-PGaNKabxMiQtGwQdg)
 
-[如何在 SwiftUI 中创建条形图](https://mp.weixin.qq.com/s/xPykVjkb9aLtu8rha3tQqA)
+[Swift 中的 async/await — 代码实例详解](https://mp.weixin.qq.com/s/TL1LPvVdhSFxrYCFWQ2LfQ)
 
-[在 iOS 16 中用 SwiftUI Charts 创建一个折线图](https://mp.weixin.qq.com/s/V_qXskB41WYHwaPdV877mg)
-
-[Flutter Web - 优雅的兼容 Flutter App 代码](https://mp.weixin.qq.com/s/HnMiH-iCUUQFxxurHBg0cA)
-
-[Swift 周报 第十六期](https://mp.weixin.qq.com/s/_igJkQdGWEGSfbDmVL9bbg)
+[在 iOS16 中用 SwiftUI 图表定制一个线图](https://mp.weixin.qq.com/s/__lVWp7jUboK1O8gKD0ciw)
 
 
 ## <a name="1">Swift 进阶</a>
@@ -157,6 +153,10 @@
 
 <details>
 <summary>点击查看内容</summary>
+
+[如何在 SwiftUI 中创建条形图](https://mp.weixin.qq.com/s/xPykVjkb9aLtu8rha3tQqA)
+
+[在 iOS 16 中用 SwiftUI Charts 创建一个折线图](https://mp.weixin.qq.com/s/V_qXskB41WYHwaPdV877mg)
 
 [SwiftUI 之 HStack 和 VStack 的切换](https://mp.weixin.qq.com/s/C739cypR-npGt7F8NLtQgQ)
 
