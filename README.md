@@ -14,11 +14,11 @@
 
 ## 最新
 
+[Swift AsyncSequence — 代码实例详解](https://mp.weixin.qq.com/s/7HuYcMFCjqEhRHWlPc3ydA)
+
 [Swift 周报 第十八期](https://mp.weixin.qq.com/s/2iML-PGaNKabxMiQtGwQdg)
 
 [Swift 中的 async/await — 代码实例详解](https://mp.weixin.qq.com/s/TL1LPvVdhSFxrYCFWQ2LfQ)
-
-[在 iOS16 中用 SwiftUI 图表定制一个线图](https://mp.weixin.qq.com/s/__lVWp7jUboK1O8gKD0ciw)
 
 
 ## <a name="1">Swift 进阶</a>
@@ -153,6 +153,8 @@
 
 <details>
 <summary>点击查看内容</summary>
+
+[在 iOS16 中用 SwiftUI 图表定制一个线图](https://mp.weixin.qq.com/s/__lVWp7jUboK1O8gKD0ciw)
 
 [如何在 SwiftUI 中创建条形图](https://mp.weixin.qq.com/s/xPykVjkb9aLtu8rha3tQqA)
 
