@@ -14,9 +14,9 @@
 
 ## 最新
 
-[Swift 周报 第二十期](https://mp.weixin.qq.com/s/8zvM337Q8mV6yuNrWDWuEQ)
+[Swift 周报 第二十二期](https://mp.weixin.qq.com/s/DC3ygy2ZvEp6iYBTghhbPg)
 
-[Swift 周报 第十九期](https://mp.weixin.qq.com/s/lWS6Xfw4UyGH0YDRfmrRkw)
+[Swift 周报 第二十一期](https://mp.weixin.qq.com/s/nYCcAmv1Jl3iz9fZKqEGHg)
 
 [SwiftUI 布局协议 - Part 1](https://mp.weixin.qq.com/s/SfqdGs8TbEjxISgrsy_yIg)
 
