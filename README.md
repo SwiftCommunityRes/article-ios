@@ -14,11 +14,11 @@
 
 ## 最新
 
-[Swift 周报 第二十二期](https://mp.weixin.qq.com/s/DC3ygy2ZvEp6iYBTghhbPg)
+[Swift 周报 第二十四期](https://mp.weixin.qq.com/s/s2j1stz2etbydS9AXUCyJw)
 
-[Swift 周报 第二十一期](https://mp.weixin.qq.com/s/nYCcAmv1Jl3iz9fZKqEGHg)
+[Swift AsyncThrowingStream 和 AsyncStream 代码实例详解](https://mp.weixin.qq.com/s/j42yzmsOMNAsq3bRmUzUEA)
 
-[SwiftUI 布局协议 - Part 1](https://mp.weixin.qq.com/s/SfqdGs8TbEjxISgrsy_yIg)
+[SwiftUI 布局协议 - Part2](https://mp.weixin.qq.com/s/fgHkd_EFPkNwG3G3KPq92w)
 
 
 ## <a name="1">Swift 进阶</a>
@@ -157,6 +157,8 @@
 
 <details>
 <summary>点击查看内容</summary>
+
+[SwiftUI 布局协议 - Part 1](https://mp.weixin.qq.com/s/SfqdGs8TbEjxISgrsy_yIg)
 
 [在 iOS16 中用 SwiftUI 图表定制一个线图](https://mp.weixin.qq.com/s/__lVWp7jUboK1O8gKD0ciw)
 
