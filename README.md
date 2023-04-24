@@ -14,20 +14,19 @@
 
 ## 最新
 
+[Swift 周报 第二十七期](https://mp.weixin.qq.com/s/n5mwkxIxAlpaHYLZ0bzE8Q)
+
+[Swift 单元测试入门](https://mp.weixin.qq.com/s/ik26DGr7Rye-14Q4-jLp2w)
+
 [使用 HSB 而不是 RGB 来定义颜色](https://mp.weixin.qq.com/s/4I54IYunntZBV0sc8jUWVg)
-
-[在 SwiftUI 中创建一个环形 Slider](https://mp.weixin.qq.com/s/DUFEB5aOTx1jurPP4gP0MQ)
-
-[Swift 中的 Actors 使用以如何及防止数据竞争](https://mp.weixin.qq.com/s/dK4egY8hLKYixQw2oqNg5A)
-
-[Swift 开发者常犯的十大错误](https://mp.weixin.qq.com/s/Q9TFFEUFu_3qnnTE-hXAvA)
-
 
 
 ## <a name="1">Swift 进阶</a>
 
 <details>
 <summary>点击查看内容</summary>
+
+[Swift 中的 Actors 使用以如何及防止数据竞争](https://mp.weixin.qq.com/s/dK4egY8hLKYixQw2oqNg5A)
 
 [Swift AsyncThrowingStream 和 AsyncStream 代码实例详解](https://mp.weixin.qq.com/s/j42yzmsOMNAsq3bRmUzUEA)
 
@@ -163,6 +162,8 @@
 <details>
 <summary>点击查看内容</summary>
 
+[在 SwiftUI 中创建一个环形 Slider](https://mp.weixin.qq.com/s/DUFEB5aOTx1jurPP4gP0MQ)
+
 [SwiftUI 布局协议 - Part2](https://mp.weixin.qq.com/s/fgHkd_EFPkNwG3G3KPq92w)
 
 [SwiftUI 布局协议 - Part 1](https://mp.weixin.qq.com/s/SfqdGs8TbEjxISgrsy_yIg)
@@ -236,6 +237,8 @@
 
 <details>
 <summary>点击查看内容</summary>
+
+[Swift 开发者常犯的十大错误](https://mp.weixin.qq.com/s/Q9TFFEUFu_3qnnTE-hXAvA)
 
 [App UI 设计灵感](https://github.com/fanbaoying/AppUIDesign/blob/main/README.md)
 
