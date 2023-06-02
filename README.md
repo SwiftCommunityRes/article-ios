@@ -14,7 +14,7 @@
 
 ## 最新
 
-[Swift 周报 第二十七期](https://mp.weixin.qq.com/s/n5mwkxIxAlpaHYLZ0bzE8Q)
+[Swift 周报 第二十九期](https://mp.weixin.qq.com/s/ScrIQkzrvtva3WiYY34ueg)
 
 [Swift 单元测试入门](https://mp.weixin.qq.com/s/ik26DGr7Rye-14Q4-jLp2w)
 
