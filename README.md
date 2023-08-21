@@ -14,7 +14,7 @@
 
 ## 最新
 
-[Swift 周报 第二十九期](https://mp.weixin.qq.com/s/ScrIQkzrvtva3WiYY34ueg)
+[WWDC 23 之后的 SwiftUI 有哪些新功能](https://mp.weixin.qq.com/s/X7BGxRYZq1WpKlGvNCFZQQ)
 
 [Swift 单元测试入门](https://mp.weixin.qq.com/s/ik26DGr7Rye-14Q4-jLp2w)
 
