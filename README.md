@@ -14,11 +14,15 @@
 
 ## 最新
 
+[在 SwiftUI 中实现音频图表](https://mp.weixin.qq.com/s/5Nrh35aWyaYru9YLBfmb7Q)
+
+[Qi2 来袭！安卓共用苹果 MagSafe 无线充电](https://mp.weixin.qq.com/s/ryZ5j3IxOab46QF7AXjulw)
+
+[使用 SwiftUI 创建一个灵活的选择器](https://mp.weixin.qq.com/s/V5mHW2BlI5doVsXJSCiInA)
+
+[Swift 中 User Defaults 的读取和写入](https://mp.weixin.qq.com/s/whWBgoRn3CWWL6FCLlYwbA)
+
 [回顾每一代 iPhone 的特性升级和创新](https://mp.weixin.qq.com/s/jGIqteUg1PRWxgQWdDmcIQ)
-
-[如何使用 SwiftUI 中新地图框架 MapKit](https://mp.weixin.qq.com/s/ISjtU6llF8z_byNCvH0qKQ)
-
-[WWDC 23 之后的 SwiftUI 有哪些新功能](https://mp.weixin.qq.com/s/X7BGxRYZq1WpKlGvNCFZQQ)
 
 ## <a name="1">Swift 进阶</a>
 
@@ -163,6 +167,8 @@
 <details>
 <summary>点击查看内容</summary>
 
+[如何使用 SwiftUI 中新地图框架 MapKit](https://mp.weixin.qq.com/s/ISjtU6llF8z_byNCvH0qKQ)
+
 [在 SwiftUI 中创建一个环形 Slider](https://mp.weixin.qq.com/s/DUFEB5aOTx1jurPP4gP0MQ)
 
 [SwiftUI 布局协议 - Part2](https://mp.weixin.qq.com/s/fgHkd_EFPkNwG3G3KPq92w)
@@ -218,6 +224,8 @@
 <details>
 <summary>点击查看内容</summary>
 
+[WWDC 23 之后的 SwiftUI 有哪些新功能](https://mp.weixin.qq.com/s/X7BGxRYZq1WpKlGvNCFZQQ)
+
 [SwiftUI 中布局的工作原理](https://mp.weixin.qq.com/s/e8MwXvuUZ5d0xfYvldyk9A)
 
 [SwiftUI 布局：如何自定义 AlignmentGuides](https://mp.weixin.qq.com/s/_sH6-yF_GKD6dXFfB5xXOA)
@@ -238,6 +246,8 @@
 
 <details>
 <summary>点击查看内容</summary>
+
+[用 SwiftLint 保持 Swift 风格一致](https://mp.weixin.qq.com/s/nQDlQ9Ik8lM988gKsjHDbQ)
 
 [使用 HSB 而不是 RGB 来定义颜色](https://mp.weixin.qq.com/s/4I54IYunntZBV0sc8jUWVg)
 
